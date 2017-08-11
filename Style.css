@@ -1,0 +1,19 @@
+            #body {
+
+                background-color: white;
+                
+            }
+            #shape {
+                
+                width: 200px;
+                height: 200px;
+                border-radius: 0%;
+                background-color: red;
+                display: none;
+                position: relative;
+                
+            }
+
+
+            
+            
